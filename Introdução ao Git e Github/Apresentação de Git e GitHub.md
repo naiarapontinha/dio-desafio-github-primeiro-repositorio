@@ -1,4 +1,4 @@
-#Git 
+#  GIT
     É um software pronto - 2005 ((open source))
     Um software de versão de código, ou seja é colaborativo. Ou seja, e algo para todos do mundo verem e monitora as versões do código como já dito.
 

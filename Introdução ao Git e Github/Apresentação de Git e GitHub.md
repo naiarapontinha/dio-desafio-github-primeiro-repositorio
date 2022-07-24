@@ -2,10 +2,10 @@
     É um software pronto - 2005 ((open source))
     Um software de versão de código, ou seja é colaborativo. Ou seja, e algo para todos do mundo verem e monitora as versões do código como já dito.
 
-#GitHub
+# GitHub
     É da Microsoft ((pode ser pago))
 
-##GIT ≠ GitHub
+## GIT ≠ GitHub
 
 O GitHub
 
@@ -15,7 +15,7 @@ O GitHub
 -Melhorar seu Código
 -Reconhecimento (rede social, interação social)
 
-###Comandos Básicos para um bom desempenho no terminal:
+### Comandos Básicos para um bom desempenho no terminal:
 
     GUI x CLI
 GUI é graphic user interface
@@ -49,11 +49,11 @@ mkdir - cria a pasta
 del - deletar apenas arquivos
 rmdir - remover director ((todo repositório)) /s /q
 
-###Tópicos Fundamentais para entender o funcionamento do GIT
+### Tópicos Fundamentais para entender o funcionamento do GIT
 
 -SHA1 - secure hash algoritmo ((criptografa as coisas)) que gera um conjunto de caracteres que são identificadores de 40 digitos únicos. Uma forma curta de representar o estado do arquivo.
 
-###Objetios internos do GIT
+### Objetios internos do GIT
 
 -Blobs - metadados do git - echo - pega as strings e ela devolve o SHA1
 -Trees - armazena os blobs - monta estrutura de onde estão localizados os arquivos
@@ -61,12 +61,12 @@ rmdir - remover director ((todo repositório)) /s /q
 
 É um sistema distribuído seguro, tem seu código hosteado na nuvem, representa o estado final do seu software.
 
-##Chave SSH e senha token - GitHub
+## Chave SSH e senha token - GitHub
 
 A chave SSH - conexão segura e encriptada entre duas máquinas (pública e privada)
 
 
-##Primeiros Comandos com Git
+## Primeiros Comandos com Git
 
 Iniciando o Git e cirando um commit
 
@@ -74,8 +74,8 @@ Iniciando o Git e cirando um commit
 -Iniciar o Versionamento - git add
 -Criar um commit - git commit
 
-##Ciclo de Vida
-###Passo a Passo no Ciclo de Vida
+## Ciclo de Vida
+### Passo a Passo no Ciclo de Vida
 
 -git nit - inicializa o repositório
 -tracked - rastreados pelo git
